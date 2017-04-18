@@ -131,7 +131,7 @@ const SubmitRouter = React.createClass({
   render() {
     return (
       <div>
-      <TitleBar>
+      <TitleBar active='Add a project' >
         <div className='titleText'>
           {'Submit a project'}
         </div>
