@@ -133,7 +133,7 @@ const SubmitRouter = React.createClass({
       <div>
       <TitleBar active='Add a project' >
         <div className='titleText'>
-          {'Submit a project'}
+          {'Add a project'}
         </div>
       </TitleBar>
       <Router history={hashHistory}>
