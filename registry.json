@@ -25,7 +25,7 @@
   },
   {
     "repo": "https://github.com/kasbah/push-on-hold-off",
-    "hash": "29085bc9666c7f61e2cd6ad68889258931a5d268"
+    "hash": "b96d65b0d371c7b0e53ebda47f1a057a2beaa5eb"
   },
   {
     "repo": "https://github.com/kitnic-forks/BQ25570_Harvester",
@@ -45,7 +45,7 @@
   },
   {
     "repo": "https://github.com/robotsrulz/SP_Adapter",
-    "hash": "e0283771f937119427ebd1c8a72600dd4e5fb704"
+    "hash": "6cccce11f6ba1ad880d94bb4643c62307dfdd758"
   },
   {
     "repo": "https://github.com/pcbsz/SimpleAmp",
@@ -89,7 +89,7 @@
   },
   {
     "repo": "https://github.com/monostable/jelly",
-    "hash": "1cc56420ca1c39b3bb78d3af7ad7a2ac2349c020"
+    "hash": "d5f777b881ad21577dd4d15ad4d1a35a0c60cd78"
   },
   {
     "repo": "https://github.com/GenericLab/Gar-Lampli",
@@ -101,6 +101,18 @@
   },
   {
     "repo": "https://github.com/kimitobo/Neocococat",
-    "hash": "48b7cf19ae3f5654a3d0a9a12d4b6d7128c24653"
+    "hash": "ef8b3848d6987102525e9a66f1c712a97a38848b"
+  },
+  {
+    "repo": "https://github.com/RoboticsBrno/RB3200-ESP32universal/",
+    "hash": "7933202eb494bd7cb640ea98742f5b0b6ce26423"
+  },
+  {
+    "repo": "https://github.com/intajay/uduino",
+    "hash": "582a52e210c7d4cd203ec8759992d7d8db1b227b"
+  },
+  {
+    "repo": "https://github.com/8BitMixtape/8BitmixtapeNEO_ShenzhenReady",
+    "hash": "45b297c4477f407d4511dfe7c09ad870f4325ae8"
   }
 ]
